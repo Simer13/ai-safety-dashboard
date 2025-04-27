@@ -66,10 +66,18 @@ npm run dev
 ### 4. Run the localhost
 
 ```bash
+
+https://github.com/user-attachments/assets/d8e1375f-5e48-4d83-accf-870c48bd42ba
+
+
 http://localhost:3000
 ```
 
 ## "Watch a video!" 🎥✨
+
+
+https://github.com/user-attachments/assets/97bc2b74-f865-434f-a0b9-bced3d1ff07c
+
 
 
 
